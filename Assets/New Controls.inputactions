@@ -1,0 +1,33 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "Pbutton",
+            "id": "463ac31e-bdd2-4f3f-9f3d-4cff355292fb",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "c3b45ba7-4c39-4eca-99d5-f46f08c7c49a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "38133593-ac77-45db-9bb6-2fd165c600ef",
+                    "path": "<Keyboard>/p",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
